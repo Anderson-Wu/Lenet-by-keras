@@ -1,6 +1,8 @@
 # Lenet-by-keras
 ## About
 Use Keras to build Lenet and train LeNet on MNIST
+
+![lenet](./img/lenet.png)
 ## Python version
 3.7
 ## UI
